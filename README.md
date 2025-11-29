@@ -31,12 +31,12 @@ pip install n_sum
 
 ---
 
-
 ## Developer
 
 **Hemanth Kumar Sirasapalli**
 
 
+---
 
 
 
