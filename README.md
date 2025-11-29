@@ -3,7 +3,7 @@
 [![PyPI Version](https://img.shields.io/pypi/v/n-sum.svg)](https://pypi.org/project/n-sum/)
 [![Python Version](https://img.shields.io/pypi/pyversions/n-sum.svg)](https://pypi.org/project/n-sum/)
 [![License](https://img.shields.io/pypi/l/n-sum.svg)](https://github.com/shkumar5-india/n_sum/blob/main/LICENSE)
-[![PyPI Downloads](https://pepy.tech/badge/n-sum)](https://pepy.tech/project/n-sum)
+[![Downloads](https://img.shields.io/pypi/dm/n-sum.svg)](https://pypi.org/project/n-sum/)
 
 
 A Python package for calculating sums of numbers and series.  
@@ -30,6 +30,12 @@ Provides functions for summing natural numbers, lists, squares, cubes, and arith
 pip install n_sum
 
 
+---
+
+
+## Developer
+
+**Hemanth Kumar Sirasapalli**
 
 
 
