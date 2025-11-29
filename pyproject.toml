@@ -1,0 +1,33 @@
+[project]
+name = "n_sum"
+version = "0.1.1"
+description = "A simple Python package to compute sums of numbers, lists, and series like arithmetic and geometric series"
+readme = { file = "README.md", content-type = "text/markdown" }
+requires-python = ">=3.8"
+authors = [
+  { name="Hemanth Kumar Sirasapalli", email="sirasapalli1238@gmail.com" }
+]
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel", "build"]
+build-backend = "setuptools.build_meta"
+
+
+license = { text = "MIT" }
+
+keywords = ["sum", "numbers", "series", "arithmetic", "geometric", "math", "python"]
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Software Development :: Libraries",
+    "Intended Audience :: Developers",
+    "Development Status :: 4 - Beta"
+]
+
+urls = { 
+    "Homepage" = "https://github.com/shkumar5-india/n_sum",
+    "Repository" = "https://github.com/shkumar5-india/n_sum",
+    "Bug Tracker" = "https://github.com/shkumar5-india/n_sum/issues"
+}
