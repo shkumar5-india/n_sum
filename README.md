@@ -4,7 +4,7 @@
 [![Python Version](https://img.shields.io/pypi/pyversions/n_sum.svg)](https://pypi.org/project/n-sum/)
 [![License](https://img.shields.io/pypi/l/n_sum.svg)](https://github.com/shkumar5-india/n_sum/blob/main/LICENSE)
 [![Downloads](https://img.shields.io/pypi/dm/n-sum.svg)](https://pypi.org/project/n-sum/)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/shkumar5-india/n_sum/python-package.yml?branch=main)](https://github.com/shkumar5-india/n_sum/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/shkumar5-india/n_sum/python-package.yml?branch=main)](https://github.com/shkumar5-india/n_sum/actions/new)
 
 A Python package for calculating sums of numbers and series.  
 Provides functions for summing natural numbers, lists, squares, cubes, and arithmetic/geometric series.
@@ -28,6 +28,7 @@ Provides functions for summing natural numbers, lists, squares, cubes, and arith
 
 ```bash
 pip install n_sum
+
 
 
 
