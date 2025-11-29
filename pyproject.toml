@@ -7,16 +7,8 @@ requires-python = ">=3.8"
 authors = [
   { name="Hemanth Kumar Sirasapalli", email="sirasapalli1238@gmail.com" }
 ]
-
-[build-system]
-requires = ["setuptools>=61.0", "wheel", "build"]
-build-backend = "setuptools.build_meta"
-
-
 license = { text = "MIT" }
-
 keywords = ["sum", "numbers", "series", "arithmetic", "geometric", "math", "python"]
-
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
@@ -26,8 +18,12 @@ classifiers = [
     "Development Status :: 4 - Beta"
 ]
 
-urls = { 
-    "Homepage" = "https://github.com/shkumar5-india/n_sum",
-    "Repository" = "https://github.com/shkumar5-india/n_sum",
-    "Bug Tracker" = "https://github.com/shkumar5-india/n_sum/issues"
-}
+[project.urls]
+Homepage = "https://github.com/shkumar5-india/n_sum"
+Repository = "https://github.com/shkumar5-india/n_sum"
+Bug_Tracker = "https://github.com/shkumar5-india/n_sum/issues"
+
+
+[build-system]
+requires = ["setuptools>=61.0", "wheel", "build"]
+build-backend = "setuptools.build_meta"
